@@ -1,0 +1,5 @@
+module SwiftIOKitBridge {
+    header "SwiftIOKitBridge.h"
+    link "SwiftIOKitBridge"
+    export *
+}
